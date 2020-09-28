@@ -7,6 +7,7 @@ public class HelloGit {
 		System.out.println("乌枣");
 		System.out.println("炒鸡乌枣");
 		System.out.println("九级乌枣");
+		System.out.println("中级乌枣");
 	}
 
 }
